@@ -43,19 +43,19 @@ display: inline;
 
 a {
   a {
-    color: #8ec3ff;
+    color: #85beff;
     transition: font-size 0.3s ease-in-out;
 }
   }
   
  
   a:hover {
-    color: #aad9ff; 
+    color: #bbe0ff 
   }
   
  
   a:visited {
-    color: #975eff; 
+    color: #a16eff; 
   }
 
 
